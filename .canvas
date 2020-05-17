@@ -1,4 +1,6 @@
 ---
-:page_id: 3424
-:course_id: 239
-:canvas_url: https://learning.flatironschool.com/courses/239/pages/community-projects
+:lessons:
+- :id: 3903
+  :course_id: 272
+  :canvas_url: https://learning.flatironschool.com/courses/272/pages/community-projects
+  :type: page
