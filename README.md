@@ -31,7 +31,7 @@ topic for your required blog posts!
 
 ## Open Source Projects
 
-Another way to develop your skills is to consider contributing to an open source project or technolgoy. Open
+Another way to develop your skills is to consider contributing to an open source project or technology. Open
 source projects are improved and often maintained by the community around them. These projects are a bit more
 open ended - many of them can be fairly involved and require a strong understanding of the technology. However,
 contributing to an open source project can be an excellent thing to include on your resume as it shows you are
